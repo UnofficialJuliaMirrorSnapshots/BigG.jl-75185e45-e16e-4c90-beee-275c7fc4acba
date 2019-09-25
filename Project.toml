@@ -1,7 +1,7 @@
 name = "BigG"
 uuid = "75185e45-e16e-4c90-beee-275c7fc4acba"
 authors = ["Moelf <proton+github@jling.dev>"]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
